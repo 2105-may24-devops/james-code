@@ -1,5 +1,8 @@
 testing
 
 testing again
+<<<<<<< HEAD
 
 this is another test
+=======
+>>>>>>> 4f7ee9cb29afb02f3b6ab8f418e49a752df4847f
